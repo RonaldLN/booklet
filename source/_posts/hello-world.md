@@ -3,7 +3,7 @@ layout: post
 title: hello
 # date: 2024-03-16 23:39:59
 # updated: 2024-03-16 23:39:59
-cover: /images/vitepress-logo-large.webp
+# cover: /images/vitepress-logo-large.webp
 author:
   - ronald-luo
 ---

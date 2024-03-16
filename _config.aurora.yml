@@ -14,7 +14,7 @@ site:
   nick: Auroral UI
   description:
   link: '/'
-  language: en
+  language: zh-CN
   multi_language: true
   logo:
   avatar:
@@ -124,7 +124,7 @@ socials:
 #! ---------------------------------------------------------------
 site_meta:
   cdn: cn
-  favicon:
+  favicon: 
   description: 'I am a student.'
   keywords: ''
   author: 'Ronald Luo'
@@ -158,7 +158,7 @@ valine:
   avatar: ''
   placeholder: Leave your thoughts behind~
   visitor: true
-  lang: en
+  lang: cn
   avatarForce: false
   meta: ['nick', 'mail']
   requiredFields: ['nick', 'mail']
